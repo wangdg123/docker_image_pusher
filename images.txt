@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 talebook/talebook
 johngong/calibre-web
+ghcr.io/cxfksword/douban-api-rs
