@@ -9,4 +9,4 @@ johngong/calibre-web
 ghcr.io/cxfksword/douban-api-rs
 gdy666/lucky
 nyanmisaka/jellyfin
-deluan/navidrome
+
