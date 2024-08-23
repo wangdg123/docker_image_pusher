@@ -12,3 +12,4 @@ nyanmisaka/jellyfin
 deluan/navidrome
 linuxserver/jackett
 youshandefeiyang/allinone:latest
+linuxserver/qbittorrent
