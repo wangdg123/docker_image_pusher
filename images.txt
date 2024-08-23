@@ -11,4 +11,4 @@ gdy666/lucky
 nyanmisaka/jellyfin
 deluan/navidrome
 linuxserver/jackett
-youshandefeiyang/allinone
+youshandefeiyang/allinone:latest
