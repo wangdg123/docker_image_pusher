@@ -13,3 +13,4 @@ deluan/navidrome
 linuxserver/jackett
 youshandefeiyang/allinone:latest
 linuxserver/qbittorrent
+containrrr/watchtower
