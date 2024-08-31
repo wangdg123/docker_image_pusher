@@ -14,4 +14,4 @@ linuxserver/jackett
 youshandefeiyang/allinone:latest
 linuxserver/qbittorrent
 containrrr/watchtower
-portainer/portainer-ce
+6053537/portainer-ce
