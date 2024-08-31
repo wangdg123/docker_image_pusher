@@ -14,3 +14,4 @@ linuxserver/jackett
 youshandefeiyang/allinone:latest
 linuxserver/qbittorrent
 containrrr/watchtower
+portainer/portainer-ce
