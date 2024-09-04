@@ -16,3 +16,4 @@ linuxserver/qbittorrent
 containrrr/watchtower
 6053537/portainer-ce
 cnk3x/xunlei
+vaultwarden/server
