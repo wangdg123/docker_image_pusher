@@ -18,3 +18,4 @@ containrrr/watchtower
 cnk3x/xunlei
 vaultwarden/server
 dreamacro/clash
+adguard/adguardhome
