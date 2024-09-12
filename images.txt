@@ -19,3 +19,4 @@ cnk3x/xunlei
 vaultwarden/server
 dreamacro/clash
 adguard/adguardhome
+mrdeer1997/nas-tool:2.9.1
