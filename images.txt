@@ -20,3 +20,4 @@ vaultwarden/server
 dreamacro/clash
 adguard/adguardhome
 nastools/nas-tools:2.9.1
+fjlzwl/nastool
