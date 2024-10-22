@@ -23,3 +23,4 @@ fjlzwl/nastool
 b3log/siyuan
 wallabag/wallabag
 neosmemo/memos
+homeassistant/home-assistant
