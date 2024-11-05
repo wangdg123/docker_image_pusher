@@ -11,7 +11,7 @@ gdy666/lucky
 nyanmisaka/jellyfin
 deluan/navidrome
 linuxserver/jackett
-youshandefeiyang/allinone:latest
+
 linuxserver/qbittorrent
 containrrr/watchtower
 6053537/portainer-ce
@@ -24,4 +24,4 @@ b3log/siyuan
 wallabag/wallabag
 neosmemo/memos
 homeassistant/home-assistant
-
+herberthe0229/iptv-sources
