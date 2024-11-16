@@ -25,3 +25,4 @@ wallabag/wallabag
 neosmemo/memos
 homeassistant/home-assistant
 herberthe0229/iptv-sources
+enwaiax/x-ui
