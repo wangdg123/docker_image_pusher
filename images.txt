@@ -28,4 +28,4 @@ herberthe0229/iptv-sources
 enwaiax/x-ui
 excalidraw/excalidraw
 xhongc/music_tag_web
-lovechen/embyserver
+amilys/embyserver
