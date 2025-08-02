@@ -29,3 +29,4 @@ excalidraw/excalidraw
 xhongc/music_tag_web
 amilys/embyserver
 advplyr/audiobookshelf
+metatube/metatube-server:latest
